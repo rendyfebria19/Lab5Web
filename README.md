@@ -40,6 +40,24 @@
 - menginput nilai 50 ![7d](https://user-images.githubusercontent.com/59887134/115660713-9fec7e80-a366-11eb-9aa5-7e1e6d3020b1.png)
 - Program menampilkan hasil tidak lulus![7e](https://user-images.githubusercontent.com/59887134/115660753-ae3a9a80-a366-11eb-9100-c23224f9e3d5.png)
 
+8. Melakukan Penggunaan operator switch untuk seleksi kondisi![8a](https://user-images.githubusercontent.com/59887134/115660953-ef32af00-a366-11eb-936c-cd5cc26985b7.png)
+- Tombol Switch berhasil ditambahkan dan menginput nilai 1![8b](https://user-images.githubusercontent.com/59887134/115661019-0c677d80-a367-11eb-806a-62e1f3dfcf69.png)
+- program berhasil dijalankan ![8c](https://user-images.githubusercontent.com/59887134/115661333-7ed85d80-a367-11eb-80ca-7939da0a38f1.png)
+
+9. melakukan Pembuatan Form input ![9a](https://user-images.githubusercontent.com/59887134/115661502-b941fa80-a367-11eb-891e-ab1073cdd64d.png)
+- Program berhasil dijalankan dengan menampilkan form ![9b](https://user-images.githubusercontent.com/59887134/115661572-d1b21500-a367-11eb-83cb-f4af29b38dd2.png)
+
+10. Membuat Form Button seperti merubah warna latar dan warna huruf![10a](https://user-images.githubusercontent.com/59887134/115661646-f4dcc480-a367-11eb-8eff-2069bceb7f5a.png)
+- program berhasil dijalankan dan melakukan latar warna hijau dan warna huruf biru![10b](https://user-images.githubusercontent.com/59887134/115661766-2eadcb00-a368-11eb-9280-fa7e566bd79c.png)
+- melakukan perubahan warna menggunakan button yang tersedia![10c](https://user-images.githubusercontent.com/59887134/115661837-484f1280-a368-11eb-8bbe-8d7af822b4ec.png)
+
+11. selanjutnya, melakukan pilihan checkBox dengan perhitungan otomatis![11a](https://user-images.githubusercontent.com/59887134/115661923-6caaef00-a368-11eb-84f0-70ff48df3a94.png)
+- Program berhasil dijalankan menampilkan menu makan dan melakukan perhitungan otomatis![11b](https://user-images.githubusercontent.com/59887134/115662204-d6c39400-a368-11eb-8a16-6d01b675047c.png)
+
+
+
+
+
 
 
 
