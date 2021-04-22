@@ -25,7 +25,7 @@
 - objek berhasil ditampilkan dengan code document.write![3b](https://user-images.githubusercontent.com/59887134/115659421-babdf380-a364-11eb-9935-7c02e6689b2e.png)
 
 4. melakukan pemakaian Prompt![4a](https://user-images.githubusercontent.com/59887134/115659524-e04afd00-a364-11eb-8b61-3f8db682a30f.png)
-- Program Prompt berhasil dijalankan dengan menampilkan "siapa nama anda"
+- Program Prompt berhasil dijalankan dengan menampilkan "siapa nama anda"![4b](https://user-images.githubusercontent.com/59887134/115659819-52234680-a365-11eb-9e48-5308240330f9.png)
 - selanjutnya, Program Prompt berhasil dijalankan dengan menampilkan nama pengguna![4c](https://user-images.githubusercontent.com/59887134/115659748-35870e80-a365-11eb-9a77-852a62ff82ac.png)
 
 
