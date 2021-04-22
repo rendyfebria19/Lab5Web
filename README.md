@@ -18,4 +18,8 @@
 - Program berhasil dijalankan pada browser menampikan kata pengenalan javascript dan hello world
 ![1b](https://user-images.githubusercontent.com/59887134/115658947-f86e4c80-a363-11eb-9c7c-bf96ebf372f9.png)
 
+2. Melakukan Pemakaian Alert sebagai property window.![2a](https://user-images.githubusercontent.com/59887134/115659073-353a4380-a364-11eb-88f1-b7c9c103a2d5.png)
+- Program Java berhasil ditambahkan dengan menampilkan pesan alert "ini merupakan pesan anda"![2b](https://user-images.githubusercontent.com/59887134/115659205-6286f180-a364-11eb-8026-0ec9e3c52b8d.png)
+
+
 
