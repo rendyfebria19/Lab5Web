@@ -28,6 +28,21 @@
 - Program Prompt berhasil dijalankan dengan menampilkan "siapa nama anda"![4b](https://user-images.githubusercontent.com/59887134/115659819-52234680-a365-11eb-9e48-5308240330f9.png)
 - selanjutnya, Program Prompt berhasil dijalankan dengan menampilkan nama pengguna![4c](https://user-images.githubusercontent.com/59887134/115659748-35870e80-a365-11eb-9a77-852a62ff82ac.png)
 
+5. selanjutnya, Pembuatan fungsi dan cara pemanggilannya lewat body onload![5a](https://user-images.githubusercontent.com/59887134/115660061-acbca280-a365-11eb-8394-52e68adffbf2.png)
+- Program berhasil dijalankan ![5b](https://user-images.githubusercontent.com/59887134/115660178-d675c980-a365-11eb-8ca2-999b250645df.png)
+
+6. Melakukan Operasi dasar aritmatika![6a](https://user-images.githubusercontent.com/59887134/115660240-f3120180-a365-11eb-88a4-d95c3a7799fa.png)
+- program aritmatika berhasil dijalankan pada browser ![6b](https://user-images.githubusercontent.com/59887134/115660312-0755fe80-a366-11eb-9357-2effebc7e875.png)
+
+7. melakukan pemakaian Seleksi kondisi (if..else)seperti nilai diatas 60 lulus dan jika dibawah 60 tidak lulus![7a](https://user-images.githubusercontent.com/59887134/115660371-1b016500-a366-11eb-956a-1508419abf5e.png)
+- menginput nilai 80![7b](https://user-images.githubusercontent.com/59887134/115660625-7c293880-a366-11eb-8d7c-b01dc4159e04.png)
+- Program menampilkan hasil lulus ![7c](https://user-images.githubusercontent.com/59887134/115660667-9400bc80-a366-11eb-9854-8ce6ac77351a.png)
+- menginput nilai 50 ![7d](https://user-images.githubusercontent.com/59887134/115660713-9fec7e80-a366-11eb-9aa5-7e1e6d3020b1.png)
+- Program menampilkan hasil tidak lulus![7e](https://user-images.githubusercontent.com/59887134/115660753-ae3a9a80-a366-11eb-9100-c23224f9e3d5.png)
+
+
+
+
 
 
 
