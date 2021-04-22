@@ -21,5 +21,13 @@
 2. Melakukan Pemakaian Alert sebagai property window.![2a](https://user-images.githubusercontent.com/59887134/115659073-353a4380-a364-11eb-88f1-b7c9c103a2d5.png)
 - Program Java berhasil ditambahkan dengan menampilkan pesan alert "ini merupakan pesan anda"![2b](https://user-images.githubusercontent.com/59887134/115659205-6286f180-a364-11eb-8026-0ec9e3c52b8d.png)
 
+3. Melakukan Method dalam objek![3a](https://user-images.githubusercontent.com/59887134/115659331-9b26cb00-a364-11eb-9d17-98f1e055b859.png)
+- objek berhasil ditampilkan dengan code document.write![3b](https://user-images.githubusercontent.com/59887134/115659421-babdf380-a364-11eb-9935-7c02e6689b2e.png)
+
+4. melakukan pemakaian Prompt![4a](https://user-images.githubusercontent.com/59887134/115659524-e04afd00-a364-11eb-8b61-3f8db682a30f.png)
+- Program Prompt berhasil dijalankan dengan menampilkan "siapa nama anda"
+- selanjutnya, Program Prompt berhasil dijalankan dengan menampilkan nama pengguna![4c](https://user-images.githubusercontent.com/59887134/115659748-35870e80-a365-11eb-9a77-852a62ff82ac.png)
+
+
 
 
